@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [qianxiaoning!](https://github.com/qianxiaoning) 
 
-<!--
-**qianxiaoning/qianxiaoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm qianxiaoning, a java/js Developer 🚀 from China, currently.
+  
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
+- 👨🏽‍💻 I’m currently working on Suzhou;
+- 📫 How to reach me: qianno.1@qq.com;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/qianxiaoning)](https://github.com/qianxiaoning)
+
+![qianxiaoning's github stats](https://github-readme-stats.vercel.app/api?username=qianxiaoning&show_icons=true&hide_border=true)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/qianxiaoning/count.svg" />
+  <br/>⭐️ Show some ❤️ by starring some of the repositories!
+</p>
+<p align="center">
+  From <a href="https://github.com/qianxiaoning">qianxiaoning</a>
+</p>
