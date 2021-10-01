@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qianxiaoning&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
 ### Hey 👋🏽, I'm [qianxiaoning!](https://github.com/qianxiaoning) 
 
 Hi, I'm qianxiaoning, a java/js Developer 🚀 from China, currently.
