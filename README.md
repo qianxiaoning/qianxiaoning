@@ -16,6 +16,4 @@ Hi, I'm qianxiaoning, a java/js Developer 🚀 from China, currently.
   <img src="https://profile-counter.glitch.me/qianxiaoning/count.svg" />
   <br/>⭐️ Show some ❤️ by starring some of the repositories!
 </p>
-<p align="center">
-  From <a href="https://github.com/qianxiaoning">qianxiaoning</a>
-</p>
+
