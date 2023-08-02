@@ -10,6 +10,9 @@ Hi, I'm qianxiaoning, a java/js Developer 🚀 from China, currently.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qianxiaoning&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="qianxiaoning's github stats" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langsusername=qianxiaoning&layout=default&theme=dark&hide_border=true" /></a> |
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 | ------------- | ------------- |
 
 <p align="center"> 
